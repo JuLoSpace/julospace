@@ -1,4 +1,4 @@
-## Hi there, I am JuLoSpace 👋
+## Hi there, I am Yaroslav Soloviev 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julospace&show_icons=true&theme=transparent)
 
